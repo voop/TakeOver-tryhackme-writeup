@@ -33,7 +33,9 @@ echo "10.10.17.229 blog.futurevera.thm support.futurevera.thm >> /etc/hosts
 
 With these two added; explore the following approaches:
 1. Open and check the certificate of support.futurevera.thm, the DNS name field is where your flag is located
-![image](https://user-images.githubusercontent.com/56643982/216769029-bb407772-32d7-4290-835c-cd6d28c228b8.png)
+
+![image](https://user-images.githubusercontent.com/56643982/216769568-81f9b1d0-aef4-4e9d-8768-e85f36b00a35.png)
+
 
 2.Try opening the support.futurevera.thm from the browser, you get a warning prompt and you will find a hint that there exists one more subdomain namely: 
 
